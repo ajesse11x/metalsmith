@@ -27,7 +27,7 @@
     "gray-matter": "^2.1.1",
     "has-generators": "^1.0.1",
     "is-utf8": "~0.2.0",
-    "recursive-readdir": "^2.1.0",
+    "recursive-readdir": "^2.2.3",
     "rimraf": "^2.2.8",
     "stat-mode": "^0.2.0",
     "thunkify": "^2.1.2",
